@@ -1,6 +1,6 @@
 # Data Structures Implementation
 
-This repository contains the implementation of a wide range of data structures in C++. Each data structure is designed to provide efficient and flexible solutions for common programming tasks.
+This repository contains the implementation of a wide range of data structures in C++. Each data structure is designed to provide efficient and flexible solutions for common programming tasks. Feel free to explore each data structure's respective directory for detailed implementation and example usage.
 
 ## Table of Contents
 
@@ -50,7 +50,6 @@ A map is a collection of key-value pairs. This implementation provides a basic m
 
 A tree is a hierarchical data structure that consists of nodes connected by edges. This implementation provides a basic tree structure with methods for insertion, deletion, and traversal.
 
-Feel free to explore each data structure's respective directory for detailed implementation and example usage.
 
 ## Contribution
 
