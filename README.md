@@ -4,15 +4,18 @@ This repository contains the implementation of a wide range of data structures i
 
 ## Table of Contents
 
-1. [List](#list)
-2. [Stack](#stack)
-3. [Queue](#queue)
-4. [Circularly Linked List](#circularly-linked-list)
-5. [Deque](#deque)
-6. [Linked List](#linked-list)
-7. [Doubly Linked List](#doubly-linked-list)
-8. [Maps](#maps)
-9. [Tree](#tree)
+- [Data Structures Implementation](#data-structures-implementation)
+  - [Table of Contents](#table-of-contents)
+  - [List](#list)
+  - [Stack](#stack)
+  - [Queue](#queue)
+  - [Deque](#deque)
+  - [Linked List](#linked-list)
+  - [Doubly Linked List](#doubly-linked-list)
+  - [Circularly Linked List](#circularly-linked-list)
+  - [Maps](#maps)
+  - [Tree](#tree)
+  - [Contribution](#contribution)
 
 ## List
 
@@ -26,10 +29,6 @@ A stack is a data structure that follows the Last-In-First-Out (LIFO) principle.
 
 A queue is a data structure that follows the First-In-First-Out (FIFO) principle. This implementation provides methods for enqueue and dequeue operations.
 
-## Circularly Linked List
-
-A circularly linked list is a linked list where the last node points back to the first node. This implementation provides methods for insertion, deletion, and traversal of elements in a circular manner.
-
 ## Deque
 
 A deque (double-ended queue) is a versatile data structure that allows insertion and deletion at both ends. This implementation provides methods for enqueue and dequeue operations from both the front and rear.
@@ -41,6 +40,10 @@ A linked list is a linear data structure where elements are stored in nodes, and
 ## Doubly Linked List
 
 A doubly linked list is a linked list where each node contains a data part and two pointers, one pointing to the next node and the other pointing to the previous node. This implementation supports forward and backward traversal.
+
+## Circularly Linked List
+
+A circularly linked list is a linked list where the last node points back to the first node. This implementation provides methods for insertion, deletion, and traversal of elements in a circular manner.
 
 ## Maps
 
@@ -56,4 +59,4 @@ Feel free to explore each data structure's respective directory for detailed imp
 
 Contributions are welcome! If you find any issues or have improvements, please open an issue or submit a pull request.
 
-Happy coding!
+Happy coding! ❤️
