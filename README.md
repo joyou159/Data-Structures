@@ -13,7 +13,6 @@ This repository contains the implementation of a wide range of data structures i
   - [Circularly Linked List](#circularly-linked-list)
   - [Maps](#maps)
   - [Tree](#tree)
-  - [Contribution](#contribution)
 
 ## List
 
