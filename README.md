@@ -4,8 +4,6 @@ This repository contains the implementation of a wide range of data structures i
 
 ## Table of Contents
 
-- [Data Structures Implementation](#data-structures-implementation)
-  - [Table of Contents](#table-of-contents)
   - [List](#list)
   - [Stack](#stack)
   - [Queue](#queue)
